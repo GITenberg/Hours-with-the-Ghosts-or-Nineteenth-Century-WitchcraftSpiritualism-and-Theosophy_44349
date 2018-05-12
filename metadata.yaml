@@ -1,0 +1,32 @@
+_repo: Hours-with-the-Ghosts-or-Nineteenth-Century-WitchcraftSpiritualism-and-Theosophy_44349
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44349-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evans, Henry Ridgely
+    aliases:
+    - Evans, H. R. (Henry Ridgely)
+    - Evans, Henry R. (Henry Ridgely)
+    birthdate: 1861
+    deathdate: 1949
+    gutenberg_agent_id: '42705'
+    url: http://www.gutenberg.org/2009/agents/42705
+description: ''
+gutenberg_issued: '2013-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Spiritualism'
+- !lcsh 'Theosophy'
+- !lcsh 'Blavatsky, H. P. (Helena Petrovna), 1831-1891'
+title: "Hours with the Ghosts or, Nineteenth Century Witchcraft\r\nIllustrated Investigations\
+  \ into the Phenomena of Spiritualism and Theosophy"
+url: http://www.gutenberg.org/ebooks/44349
